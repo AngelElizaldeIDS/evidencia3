@@ -1,0 +1,12 @@
+[submodule "Actividad9_MenuContextual"]
+	path = Actividad9_MenuContextual
+	url = https://github.com/AngelElizaldeIDS/Actividad9_MenuContextual.git
+[submodule "Actividad10_GridView"]
+	path = Actividad10_GridView
+	url = https://github.com/AngelElizaldeIDS/Actividad10_GridView.git
+[submodule "Actividad11_CRUD"]
+	path = Actividad11_CRUD
+	url = https://github.com/AngelElizaldeIDS/Actividad11_CRUD.git
+[submodule "Actividad12_ProyectoFinal"]
+	path = Actividad12_ProyectoFinal
+	url = https://github.com/AngelElizaldeIDS/Actividad12_ProyectoFinal.git
